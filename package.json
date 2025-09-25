@@ -17,7 +17,7 @@
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
     "geist": "^1.3.0",
-    "hume": "^0.11.2",
+    "hume": "^0.13.3",
     "lucide-react": "^0.394.0",
     "motion": "^12.23.3",
     "next": "14.2.3",
