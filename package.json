@@ -29,7 +29,7 @@
     "remeda": "^2.0.9",
     "server-only": "^0.0.1",
     "sonner": "^2.0.5",
-    "tailwind-merge": "^2.5.2",
+    "tailwind-merge": "^2.6.0",
     "tailwindcss-animate": "^1.0.7",
     "ts-pattern": "^5.1.2",
     "tw-animate-css": "^1.3.4"
